@@ -5,3 +5,8 @@ Analista de BI focado em Power BI, Excel e Visualização de Dados. Unindo vivê
 
 ## <img src="https://flagcdn.com/24x18/us.png" width="20"> Professional Summary
 BI Analyst focused on Power BI, Excel, and Data Visualization. Combining HSE and Design skills with Data Analytics (Big Data & AI) for strategic decision-making.
+
+---
+### 📥 Downloads
+* [**Baixar Currículo (Português)**](./Marcelo_Nogueira_AnalistaBI_HSE.pdf)
+* [**Download Resume (English)**](./Marcelo_Nogueira_Resume_BI_HSE.pdf)
